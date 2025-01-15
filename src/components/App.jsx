@@ -1,4 +1,4 @@
-import { Description } from "./Description/Description.jsx";
+import Description from "./Description/Description";
 function App() {
   return (
     <div className="css.fonts">

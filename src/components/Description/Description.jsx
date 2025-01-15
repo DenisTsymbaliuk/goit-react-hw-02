@@ -1,4 +1,4 @@
-import { css } from "./Description.module.css";
+import css from "./Description.module.css";
 function Description() {
   return (
     <div className={css.container}>
